@@ -1,9 +1,13 @@
-DIAMETER = 127;
+// common sizes
+// 4 inches = 101.6
+// 5 inches = 127
+
+DIAMETER = 101.6;
 HEIGHT = 10;
 WIDTH = 3;
 CLAMP = 15;
 CLAMP_GAP = 5;
-SCREW_SHAFT_DIAMETER = 3;
+SCREW_SHAFT_DIAMETER = 3.5;
 
 $fn=100;
 
