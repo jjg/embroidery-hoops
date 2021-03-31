@@ -1,14 +1,13 @@
 // common sizes
+// (multiply inches by 25.4 to get mm)
 // 4 inches = 101.6
 // 5 inches = 127
 // 3x2 = 76.2x50.8
-// 4x3.5 = 101
+// 4x3.5 = 101.6x88.9
+// 6.5x4.25 = 165.1x107.95
 
-//25.4
-
-
-LENGTH = 76.2;
-DIAMETER = 50.8;
+LENGTH = 152.4;
+DIAMETER = 152.4;
 HEIGHT = 10;
 WIDTH = 3;
 CLAMP_LENGTH = 10;
